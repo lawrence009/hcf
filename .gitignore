@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+
+*.pdf
+*.zip
+
+*.qvd
+*.qvw
+Log.txt
+
+npidata*.csv
