@@ -1,3 +1,5 @@
+library(data.table)
+
 #total rows: 4551490
 
 n = 100000 # 100,000 rows
